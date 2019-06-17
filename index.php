@@ -44,7 +44,7 @@
       <div class="collapse navbar-collapse navbar-collapse-1">
         <ul class="nav navbar-nav navbar-utility">
           <li>
-            <a href="#">Status</a>
+            <a href="#">Status 123123</a>
           </li>
         </ul>
         <ul class="nav navbar-nav navbar-primary">
